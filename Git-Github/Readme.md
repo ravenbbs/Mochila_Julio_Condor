@@ -20,15 +20,19 @@ used Git commands for easy reference.
 
 - **CONFIG**
     - **git config --global user.name “[firstname lastname]”**
-        > set a name that is identifiable for credit when review version history
+        >set a name that is identifiable for credit when review version history
+        
     - **git config --global user.email “[valid-email]”**
-        > set an email address that will be associated with each history marker
+        >set an email address that will be associated with each history marker
+        
 
 - **SETUP**
     - **git init**
         > initialize an existing directory as a Git repository
+        
     - **git clone [url]**
         > retrieve an entire repository from a hosted location via URL
+        
 
 
 - **STAGE**
@@ -48,10 +52,13 @@ used Git commands for easy reference.
 - **BRANCH**
     - **git branch**
         > list your branches
+        
     - **git branch [branch-name]**
         > create a new branch
+        
     - **git checkout [branch-name]**
         > switch to another branch
+        
     - **git merge [branch]**
         > merge the specified branch’s history into the current one
         
@@ -79,9 +86,12 @@ used Git commands for easy reference.
 - **CHANGES**
     - **git rm [file]**
         > delete the file from project and stage the removal for commit
+        
     - **git mv [existing-path] [new-path]**
         > delete the file from project and stage the removal for commit
+        
     - **git log --stat -M**
         > delete the file from project and stage the removal for commit
+        
 
 
