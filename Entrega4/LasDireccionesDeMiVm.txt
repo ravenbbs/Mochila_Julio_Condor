@@ -1,0 +1,11 @@
+La IP privada y publica de la Maquina Virtual
+	- la IP privada de mi maquina virtual es: 10.0.2.15
+	- la IP publica de mi maquina virtual es: 179.49.30.3
+	
+La direccion MAC
+	08:00:27:3e:02:60 
+	
+Es diferente a la IP publica y privada de nuestra maquina host?
+	la ip privada es diferente, la ip publica es la misma en ambas.
+
+Subir este archivo a la mochila del viajero desde la maquina virtual :D
